@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzedauhu.github.io/sitemap_index.uzedauhu
